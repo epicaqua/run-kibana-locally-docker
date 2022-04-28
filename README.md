@@ -1,4 +1,4 @@
-# run-kibana-locally-docker
+# run-kibana-locally-docker on mac
 Steps to Run Kibana locally with docker
 
 ## Run Elasticsearch
