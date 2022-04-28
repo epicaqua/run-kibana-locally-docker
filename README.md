@@ -2,7 +2,7 @@
 Steps to Run Kibana locally with docker
 
 ## Run Elasticsearch
-1. Install Docker
+1. You should have docker installed and running
 2. Open terminal 
 3. Creat new network for docker and kibana
   ```
