@@ -13,7 +13,7 @@ Steps to Run Kibana locally with docker
 RUN -> docker run --name es01 --net elastic -p 9200:9200 -p 9300:9300 -it docker.elastic.co/elasticsearch/elasticsearch:8.1.3
 ```
 5. This will create all configurations and user elastic by default 
-6. From the logs in terminal copy password for the user and token, enrollment key is needed when you run kibana
+6. From the logs on terminal copy password for the user and token, enrollment key is needed when you run kibana
 
 ## Run Kibana
 1. Open another terminal 
